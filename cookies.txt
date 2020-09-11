@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dfsdeals.co.za	TRUE	/	FALSE	1999999999	PHPSESSID	d8737c1d4702591c50e4d4ce9235b6b5
+dfsdeals.co.za	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5a44736b110faddb771096ed9d1ab6d0	2ce7cda98b07cdfad5a5b2dd8be1fd49%7C%7C1599955801%7C%7C1599952201%7C%7Cf108782991dc9e70b73376f6e1d36ecc
+dfsdeals.co.za	TRUE	/	FALSE	1999999999	yith_ywraq_session_5a44736b110faddb771096ed9d1ab6d0	6924d198da2edb98c84dbde94d24573a%7C%7C1599955801%7C%7C1599952201%7C%7C31e538249042f94c4129b93af9673075
+
